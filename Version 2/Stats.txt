@@ -1,0 +1,22 @@
+input 200 
+out 3
+
+sqtr()=600 = 24
+
+2/3(200)+3 
+
+200*2=400 sqrt = 20
+
+46% error rate 140 hidden
+
+
+I have removed else class and the error rate is  37.04%
+I have replaced else class with antyn error rate is :38.04
+36.36 % error with 24 neural net else class with antonym
+remove the else class with 24 hidden nets units 31.48%
+
+
+sqrt((3+2)200)+2sqrt(200/(200+2))
+sqrt(5*200)+2.sqrt(200/202)
+31.62+.140
+32
