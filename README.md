@@ -9,6 +9,6 @@ To run the project
 3.run the nn-supervised to create the supervised model and find the accuracy of the classifier
 4.run the ann-accuracy for testing the samples
 
-To run 3 class classifier 
+To run 3 class classifier \n
 1.run the nn-clean-network for training the ann and checking its accuracy
 2.run the ann-accuracy for testing the samples
